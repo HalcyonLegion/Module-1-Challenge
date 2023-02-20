@@ -15,24 +15,18 @@ Please visit this URL to see how the website looks now: https://halcyonlegion.gi
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/horiseon1.png)
-    ```
-## Usage
-
 Once you load the website you are able to right click and use the inspector tool to go over the new html code.
 
 I updated a div element which had the class of header to just the header element, I also added a nav, the result is:
+
 ![header image](assets/images/horiseon1.png)
     
-I updated the divs in the middle of the page to sections and an aside, I cut out a lot of unnecessary classes and IDs and consolidated the CSS. The result is: 
+I updated the divs in the middle of the page to sections and an aside, I cut out a lot of unnecessary classes and IDs and consolidated the CSS. The result is:
+
 ![middle section](assets/images/horiseon2.png)
     
 I updated a div with the class of footer at the bottom of the page. Renamed it to purely be a footer element. The result is:
+
 ![footer image](assets/images/horiseon3.png)
     
 ## Credits
