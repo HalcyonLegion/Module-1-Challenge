@@ -19,8 +19,7 @@ Once you load the website you are able to right click and use the inspector tool
 
 I updated a div element which had the class of header to just the header element, I also added a nav, the result is below:
 
-    
-    ![new header image](assets/images/horiseon1.png)
+    <img src="/assets/images/horiseon1.png" alt="new header image">
     
 I updated the divs in the middle of the page to sections and an aside, I cut out a lot of unnecessary classes and IDs and consolidated the CSS. The result is below:
 
