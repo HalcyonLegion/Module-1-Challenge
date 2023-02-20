@@ -19,19 +19,19 @@ Once you load the website you are able to right click and use the inspector tool
 
 I updated a div element which had the class of header to just the header element, I also added a nav, the result is below:
 
-    ```md
+    
     ![new header image](assets/images/horiseon1.png)
-    ```
+    
 I updated the divs in the middle of the page to sections and an aside, I cut out a lot of unnecessary classes and IDs and consolidated the CSS. The result is below:
 
-    ```md
+    
     ![new middle section image](assets/images/horiseon2.png)
-    ```
+    
 I updated a div with the class of footer at the bottom of the page. Renamed it to purely be a footer element. The result is:
 
-    ```md
+    
     ![new footer image](assets/images/horiseon3.png)
-    ```
+    
 
 ## Credits
 
