@@ -11,7 +11,7 @@ I learned how to consolidate code, cut out useless classes/IDs and streamline th
 
 ## Installation
 
-Please visit this URL to see how the website looks now:
+Please visit this URL to see how the website looks now: https://halcyonlegion.github.io/Module-1-Challenge/
 
 ## Usage
 
@@ -19,17 +19,17 @@ Once you load the website you are able to right click and use the inspector tool
 
 I updated a div element which had the class of header to just the header element, I also added a nav, the result is below:
 
-    <img src="/assets/images/horiseon1.png" alt="new header image">
+    <img width="950" alt="horiseon1" src="https://user-images.githubusercontent.com/66083991/220152080-cdeb6f5f-e9b3-4895-943e-f4c243aa7267.png">
     
 I updated the divs in the middle of the page to sections and an aside, I cut out a lot of unnecessary classes and IDs and consolidated the CSS. The result is below:
 
     
-    ![new middle section image](assets/images/horiseon2.png)
+    <img width="944" alt="horiseon2" src="https://user-images.githubusercontent.com/66083991/220152141-0e9975c0-1d16-4391-9b82-ff6bb071a9a3.png">
     
 I updated a div with the class of footer at the bottom of the page. Renamed it to purely be a footer element. The result is:
 
     
-    ![new footer image](assets/images/horiseon3.png)
+    <img width="944" alt="horiseon3" src="https://user-images.githubusercontent.com/66083991/220152179-c583057a-83ee-4e8c-bc80-8b0d1dbfe726.png">
     
 
 ## Credits
