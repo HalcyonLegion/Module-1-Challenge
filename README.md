@@ -15,22 +15,13 @@ Please visit this URL to see how the website looks now: https://halcyonlegion.gi
 
 ## Usage
 
-Once you load the website you are able to right click and use the inspector tool to go over the new html code.
+Provide instructions and examples for use. Include screenshots as needed.
 
-I updated a div element which had the class of header to just the header element, I also added a nav, the result is below:
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ![Header](https://user-images.githubusercontent.com/66083991/220152080-cdeb6f5f-e9b3-4895-943e-f4c243aa7267.png)
-    
-I updated the divs in the middle of the page to sections and an aside, I cut out a lot of unnecessary classes and IDs and consolidated the CSS. The result is below:
-
-    
-    ![Middle](https://user-images.githubusercontent.com/66083991/220152141-0e9975c0-1d16-4391-9b82-ff6bb071a9a3.png)
-    
-I updated a div with the class of footer at the bottom of the page. Renamed it to purely be a footer element. The result is:
-
-    
-    ![Footer](https://user-images.githubusercontent.com/66083991/220152179-c583057a-83ee-4e8c-bc80-8b0d1dbfe726.png)
-    
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
 
 ## Credits
 
